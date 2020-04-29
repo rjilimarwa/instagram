@@ -94,12 +94,6 @@ const styles= StyleSheet.create({
     icon:{
         paddingHorizontal:10,
         marginLeft:5
-    },
-    commentBar:{
-        width:100+'%',
-        height:config.styleConstants.rowHeight,
-        borderTopWidth:StyleSheet.hairlineWidth,
-        borderBottomWidth:StyleSheet.hairlineWidth,
-        borderColor:"rgb(233,33,233)"
     }
+
 });

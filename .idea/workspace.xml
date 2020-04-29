@@ -1,86 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3efea7b8-9d50-47b0-8e1b-fba9fbe5dbb9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/back@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/back@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fertilizers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fertilizers@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/flowers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/flowers@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/plants.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/plants@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/plants_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/pots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/pots@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/seeds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/seeds@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/slider-dot@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/slider-dot@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/slider-dot@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/sprayers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/sprayers@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/illustration_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/illustration_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/illustration_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/plants_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/plants_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/plants_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/splash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/icon/image_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/icon/image_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.expo-shared/assets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/native-app-mr.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babel.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Browse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Explore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Product.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Welcome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InstaClone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn-error.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+    <list default="true" id="3efea7b8-9d50-47b0-8e1b-fba9fbe5dbb9" name="Default" comment="add instaClone page">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InstaClone.js" afterPath="$PROJECT_DIR$/src/InstaClone.js" />
     </list>
     <ignored path="native-app-mr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -160,8 +84,8 @@
       <file leaf-file-name="InstaClone.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/InstaClone.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="211">
+              <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -295,6 +219,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="web-build" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="instagram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="instagram" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -381,29 +319,37 @@
       <workItem from="1588026037051" duration="265000" />
       <workItem from="1588062523073" duration="17956000" />
       <workItem from="1588153344795" duration="2889000" />
-      <workItem from="1588158046603" duration="261000" />
+      <workItem from="1588158046603" duration="1691000" />
     </task>
+    <task id="LOCAL-00001" summary="add instaClone page">
+      <created>1588158644136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588158644136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157994000" />
+    <option name="totallyTimeSpent" value="159424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="1" width="1013" height="726" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.336008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.336008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08832808" sideWeight="0.50390625" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32467532" sideWeight="0.50390625" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49609375" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49609375" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32910156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -428,6 +374,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add instaClone page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add instaClone page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,8 +596,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InstaClone.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="211">
+          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
