@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3efea7b8-9d50-47b0-8e1b-fba9fbe5dbb9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/back@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/back@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fertilizers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/fertilizers@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/flowers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/flowers@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/plants.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/plants@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/plants_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/pots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/pots@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/seeds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/seeds@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/slider-dot@1x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/slider-dot@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/slider-dot@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/sprayers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/sprayers@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/image_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/explore_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/illustration_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/illustration_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/illustration_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/plants_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/plants_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/plants_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/icon/image_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/icon/image_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.expo-shared/assets.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/native-app-mr.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babel.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Browse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Explore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Product.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screens/Welcome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InstaClone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn-error.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
+    <ignored path="native-app-mr.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="native-app-mr" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/image_2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="splash.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/splash.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_17.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/image_17.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_16.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/image_16.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/icon/image_2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstaClone.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InstaClone.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/chat.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heart.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/heart.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/instaClone.js" />
+        <option value="$PROJECT_DIR$/Components/instaClone.js" />
+        <option value="$PROJECT_DIR$/navigation/index.js" />
+        <option value="$PROJECT_DIR$/constants/index.js" />
+        <option value="$PROJECT_DIR$/constants/mocks.js" />
+        <option value="$PROJECT_DIR$/components/explore.js" />
+        <option value="$PROJECT_DIR$/components/Explore.js" />
+        <option value="$PROJECT_DIR$/screens/Browse.js" />
+        <option value="$PROJECT_DIR$/screens/Login.js" />
+        <option value="$PROJECT_DIR$/screens/Product.js" />
+        <option value="$PROJECT_DIR$/screens/Settings.js" />
+        <option value="$PROJECT_DIR$/screens/Explore.js" />
+        <option value="$PROJECT_DIR$/screens/Welcome.js" />
+        <option value="$PROJECT_DIR$/src/components/container/index.js" />
+        <option value="$PROJECT_DIR$/src/components/constant.js" />
+        <option value="$PROJECT_DIR$/src/components/container/constant.js" />
+        <option value="$PROJECT_DIR$/src/config/index.js" />
+        <option value="$PROJECT_DIR$/src/components/presentation/Post.js" />
+        <option value="$PROJECT_DIR$/src/components/presentation/index.js" />
+        <option value="$PROJECT_DIR$/src/components/container/PostFeed.js" />
+        <option value="$PROJECT_DIR$/src/components/screens/Profile.js" />
+        <option value="$PROJECT_DIR$/src/components/screens/Camera.js" />
+        <option value="$PROJECT_DIR$/src/components/screens/MainFeed.js" />
+        <option value="$PROJECT_DIR$/src/components/screens/index.js" />
+        <option value="$PROJECT_DIR$/src/components/screens/Login.js" />
+        <option value="$PROJECT_DIR$/src/components/screens/Register.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/src/InstaClone.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
+    <option name="y" value="1" />
+    <option name="width" value="1013" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="instagram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="instagram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="instagram" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="instagram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="instagram" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/metho" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc-tarek\instagram\src\icon" />
+      <recent name="C:\Users\pc-tarek\instagram\src\icons" />
+      <recent name="C:\Users\pc-tarek\native-app-mr\assets" />
+      <recent name="C:\Users\pc-tarek\native-app-mr" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc-tarek\native-app-mr\src\components\container" />
+      <recent name="C:\Users\pc-tarek\native-app-mr\src\components" />
+      <recent name="C:\Users\pc-tarek\native-app-mr\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3efea7b8-9d50-47b0-8e1b-fba9fbe5dbb9" name="Default" comment="" />
+      <created>1584538146401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584538146401</updated>
+      <workItem from="1584538148904" duration="3723000" />
+      <workItem from="1584542627049" duration="5857000" />
+      <workItem from="1585255809077" duration="5406000" />
+      <workItem from="1585318647338" duration="9091000" />
+      <workItem from="1585403662590" duration="1555000" />
+      <workItem from="1585467176310" duration="105000" />
+      <workItem from="1586159702885" duration="678000" />
+      <workItem from="1586164071228" duration="18000" />
+      <workItem from="1586168073547" duration="32698000" />
+      <workItem from="1586249726980" duration="520000" />
+      <workItem from="1586260231428" duration="31651000" />
+      <workItem from="1586345363202" duration="26904000" />
+      <workItem from="1586436765461" duration="9491000" />
+      <workItem from="1586505989115" duration="1022000" />
+      <workItem from="1586535563589" duration="2245000" />
+      <workItem from="1586592585297" duration="761000" />
+      <workItem from="1586677676108" duration="696000" />
+      <workItem from="1586766562425" duration="1173000" />
+      <workItem from="1586781617929" duration="1281000" />
+      <workItem from="1586863255385" duration="1145000" />
+      <workItem from="1587647532324" duration="544000" />
+      <workItem from="1588023876751" duration="59000" />
+      <workItem from="1588026037051" duration="265000" />
+      <workItem from="1588062523073" duration="17956000" />
+      <workItem from="1588153344795" duration="2889000" />
+      <workItem from="1588158046603" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157994000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="1" width="1013" height="726" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.336008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08832808" sideWeight="0.50390625" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49609375" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32910156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08832808" sideWeight="0.50390625" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49609375" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/components/instaClone.js" />
+    <entry file="file://$PROJECT_DIR$/assets/splash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/instaClone.js" />
+    <entry file="file://$PROJECT_DIR$/assets/splash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/instaClone.js" />
+    <entry file="file://$PROJECT_DIR$/constants/theme.js" />
+    <entry file="file://$PROJECT_DIR$/constants/index.js" />
+    <entry file="file://$PROJECT_DIR$/constants/mocks.js" />
+    <entry file="file://$PROJECT_DIR$/navigation/index.js" />
+    <entry file="file://$PROJECT_DIR$/screens/Explore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Welcome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Explore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/112.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/explore_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/explore_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/arrow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/image_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/screens/Register.js" />
+    <entry file="file://$PROJECT_DIR$/.expo/web/cache/development/babel-loader/00a44ab07368ad2a4256c870a1904b53.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/screens/Profile.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/screens/MainFeed.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/screens/Login.js" />
+    <entry file="file://$PROJECT_DIR$/screens/Browse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/container/constant.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/container/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/container/PostFeed.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/presentation/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/presentation/Post.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/screens/Camera.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/screens/index.js" />
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icons/pots.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/icons/plants.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/image_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icon/image_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/image_16.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/splash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/image_17.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/heart.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/chat.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InstaClone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
